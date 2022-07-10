@@ -1,0 +1,9 @@
+{
+  "name": "version-1.0.0",
+  "version": "1.0.0",
+  "description": "version 1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "azu",
+  "license": "MIT"
+}
